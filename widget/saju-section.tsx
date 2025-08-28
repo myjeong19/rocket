@@ -1,5 +1,3 @@
-'use client';
-
 import SajuHeader from '@/components/table/saju-header';
 import SajuTable from '@/components/table/saju-table';
 

@@ -1,5 +1,5 @@
-import BubbleImage from '@/components/bubble';
 import Image from 'next/image';
+import BubbleImage from '@/components/bubble/bubble-image';
 
 export default function ImageSection() {
   return (

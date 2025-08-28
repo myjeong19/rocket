@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { flexRender } from '@tanstack/react-table';
 import useSazuTable from '@/hooks/use-sazu-table';
