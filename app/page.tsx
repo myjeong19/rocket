@@ -1,9 +1,9 @@
-import Images from '@/widget/image-section';
+import ImageSection from '@/widget/image-section';
 
 export default function Home() {
   return (
     <main className="w-full h-full">
-      <Images />
+      <ImageSection />
     </main>
   );
 }
