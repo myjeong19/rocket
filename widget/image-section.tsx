@@ -3,7 +3,7 @@ import BubbleImage from '@/components/bubble/bubble-image';
 
 export default function ImageSection() {
   return (
-    <section>
+    <section className="relative">
       <BubbleImage
         position="bottom"
         src="/images/top.png"

@@ -5,7 +5,7 @@ export default function SajuHeader() {
   const date = format(new Date(), 'yyyy년 MM월 dd일 HH:mm');
 
   return (
-    <header className="py-4 px-5 relative ">
+    <header className="py-4 px-5 relative bg-amber-50 text-black">
       <Image
         src="/images/left-cloud.png"
         alt="header"
