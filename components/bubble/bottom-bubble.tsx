@@ -26,8 +26,8 @@ xxs:-bottom-1/3 xxs:left-1/3 xxs:-translate-x-1/3 xxs:-translate-y-1/6
           className="absolute xs:top-1/2 xs:left-1/2 transform xs:-translate-x-1/2 xs:-translate-y-1/2
       xxs:top-1/2 xxs:left-1/2 xxs:-translate-x-1/2 xxs:-translate-y-1/2
       text-center text-black xxs:text-sm xs:text-base leading-tight line-clamp-3
-      w-full h-fit  max-h-[90px] xxs:px-10 xs:px-26 sm:px-36 pt-5 whitespace-pre-wrap
-      overflow-hidden z-30
+      w-full h-fit  max-h-[90px] xxs:px-10 xs:px-20 sm:px-28 pt-5 whitespace-pre-wrap
+      overflow-hidden z-50
       "
         >
           <p className="w-full h-full"> {text}</p>
